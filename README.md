@@ -14,3 +14,4 @@ https://www.rrrummy.com/en/tilerummy-rules.php
 #### Other
 - School project for COMP 3004 (Software Engineering), Carleton University.
 - Design patterns/architectures used: Memento, Strategy, Observer, MVC.
+- [Pull requests](https://github.com/aclonegeek/rummikub/pulls?q=is%3Apr+is%3Aclosed), [issues](https://github.com/aclonegeek/rummikub/issues?q=is%3Aissue+is%3Aclosed)
